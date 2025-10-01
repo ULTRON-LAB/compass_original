@@ -1,0 +1,6 @@
+Mod/.gradle/
+Mod/.idea/
+Mod/run/
+Doc/.vitepress/cache/
+Doc/node_modules/
+Firmware/.vscode/
